@@ -1,0 +1,2 @@
+<?php echo 'Si vous voulez intégrez du code PHP dans des documents XHTML ou XML, utilisez ces balises'; ?>
+<?php echo 'Si vous voulez intégrez du code PHP dans des documents XHTML ou XML, utilisez ces balises'; ?>
